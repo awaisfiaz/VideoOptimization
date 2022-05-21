@@ -1,0 +1,6 @@
+google_api_python_client==2.48.0
+matplotlib==3.5.1
+requests==2.27.1
+st_annotated_text==3.0.0
+streamlit==1.7.0
+streamlit_option_menu==0.3.2
